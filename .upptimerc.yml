@@ -6,10 +6,9 @@ repo: service-monitoring # Your GitHub repository name
 sites:
   - name: OctoFarm
     url: https://octofarm.net
-
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /service-monitoring
+  baseUrl: /OctoFarm-Service-Monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: NotExpectedYet Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
