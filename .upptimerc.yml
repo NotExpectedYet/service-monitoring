@@ -7,8 +7,9 @@ sites:
   - name: OctoFarm
     url: https://octofarm.net
 status-website:
+  cname: status.octofarm.net # Custom domain CNAME
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /OctoFarm-Service-Monitoring
+  #baseUrl: /OctoFarm-Service-Monitoring
   logoUrl: https://github.com/OctoFarm/OctoFarm/raw/master/views/android-chrome-512x512.png
   name: OctoFarm Service Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
