@@ -10,7 +10,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /OctoFarm-Service-Monitoring
   logoUrl: https://github.com/OctoFarm/OctoFarm/raw/master/views/android-chrome-512x512.png
-  name: NotExpectedYet Uptime
+  name: OctoFarm Service Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: "Welcome, check out OctoFarm services current uptime below."
   navbar:
