@@ -1,6 +1,6 @@
 # Change these first
-owner:  notexpectedyetorg # Your GitHub username
-repo: service-monitoring # Your GitHub repository name
+owner:  octofarm # Your GitHub username
+repo: OctoFarm-Service-Monitoring/ # Your GitHub repository name
 
 # Add your sites here
 sites:
