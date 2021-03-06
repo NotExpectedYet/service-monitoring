@@ -6,6 +6,7 @@ repo: OctoFarm-Service-Monitoring # Your GitHub repository name
 sites:
   - name: OctoFarm
     url: https://octofarm.net
+    
 status-website:
   cname: status.octofarm.net # Custom domain CNAME
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -18,6 +19,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
+      href: https://github.com/OctoFarm/OctoFarm
+    - title: OctoFarm
       href: https://octofarm.net
 
 # Upptime also supports notifications, assigning issues, and more
