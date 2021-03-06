@@ -1,6 +1,6 @@
 # Change these first
 owner:  octofarm # Your GitHub username
-repo: OctoFarm-Service-Monitoring/ # Your GitHub repository name
+repo: OctoFarm-Service-Monitoring # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -9,10 +9,10 @@ sites:
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /OctoFarm-Service-Monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/OctoFarm/OctoFarm/raw/master/views/android-chrome-512x512.png
   name: NotExpectedYet Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "Welcome, check out NotExpectedYet services current uptime below."
+  introMessage: "Welcome, check out OctoFarm services current uptime below."
   navbar:
     - title: Status
       href: /
