@@ -6,7 +6,7 @@ repo: OctoFarm-Service-Monitoring # Your GitHub repository name
 sites:
   - name: OctoFarm
     url: https://octofarm.net
-  - name: OctoFarm Testing
+  - name: OctoFarm Testing Instance
     url: https://testing.octofarm.net
     
 status-website:
