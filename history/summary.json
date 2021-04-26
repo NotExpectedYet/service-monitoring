@@ -4,17 +4,17 @@
     "url": "https://octofarm.net",
     "icon": "https://favicons.githubusercontent.com/octofarm.net",
     "slug": "octo-farm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 398,
-    "timeWeek": 486,
-    "timeMonth": 466,
-    "timeYear": 462,
+    "time": 461,
+    "timeDay": 365,
+    "timeWeek": 471,
+    "timeMonth": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
