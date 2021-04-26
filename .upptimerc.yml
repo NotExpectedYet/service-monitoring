@@ -6,6 +6,8 @@ repo: OctoFarm-Service-Monitoring # Your GitHub repository name
 sites:
   - name: OctoFarm
     url: https://octofarm.net
+  - name: OctoFarm Testing
+    url: https://testing.octofarm.net
     
 status-website:
   cname: status.octofarm.net # Custom domain CNAME
