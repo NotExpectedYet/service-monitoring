@@ -1,7 +1,7 @@
 url: https://testing.octofarm.net
-status: up
-code: 200
-responseTime: 379
-lastUpdated: 2021-07-03T23:07:33.393Z
+status: down
+code: 502
+responseTime: 335
+lastUpdated: 2021-07-04T09:39:07.608Z
 startTime: Mon Apr 26 2021 08:42:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
